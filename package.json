@@ -40,7 +40,7 @@
     "appium-fake-driver": "^0.x",
     "appium-ios-driver": "2.x",
     "appium-mac-driver": "1.x",
-    "appium-selendroid-driver": "1.x",
+    "appium-selendroid-driver": "1.9.0",
     "appium-support": "2.x",
     "appium-tizen-driver": "^1.0.0-beta",
     "appium-uiautomator2-driver": "1.x",
